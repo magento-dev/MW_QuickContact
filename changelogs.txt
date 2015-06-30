@@ -1,0 +1,11 @@
+Quick contact - changelogs
+--------------------------
+Legend:
++ New feature added
+* Fix bugs
+
+1.4.2
++ Update to be compatible with CE 1.7.X
+
+v1.4
++ Extension release
